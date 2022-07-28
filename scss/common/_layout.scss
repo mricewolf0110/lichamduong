@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+}
+
+body {
+  background-color: getColor(grey, 1);
+}
+
+img {
+  @extend .img-fluid;
+}
+
+.ul-addprefix {
+  li:before {
+    content: "» ";
+  }
+}
+
+.modal-backdrop {
+  z-index: 1;
+}

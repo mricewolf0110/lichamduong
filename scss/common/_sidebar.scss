@@ -1,0 +1,12 @@
+.sidebar-topnhacai {
+  .bg-white {
+    .topnhacai-member {
+      &:not(:last-child) {
+        border-bottom: 2px dotted getColor(grey, 5);
+      }
+      &:last-child {
+        @extend .pb-5;
+      }
+    }
+  }
+}

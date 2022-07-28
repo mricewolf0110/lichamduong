@@ -1,0 +1,15 @@
+@media #{$xl} {
+  @each $font in $fonts{
+    .fs-xl-#{$font}{
+      font-size: $font * 1px;
+    }
+  }
+}
+
+@media #{$lg} {
+  @each $font in $fonts{
+    .fs-lg-#{$font}{
+      font-size: $font * 1px;
+    }
+  }
+}
