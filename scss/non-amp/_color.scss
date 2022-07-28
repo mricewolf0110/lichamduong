@@ -1,0 +1,18 @@
+@media #{$lg} {
+  @each $color, $arr in $colors{
+    @for $i from 1 through length($arr){
+      .text-lg-#{$color}#{$i}{
+        color: nth($arr, $i);
+        a{
+          color: nth($arr, $i);
+        }
+      }
+      .bg-lg-#{$color}#{$i}{
+        background-color: nth($arr, $i);
+      }
+      .border-lg-#{$color}#{$i}{
+        border-color: nth($arr, $i) !important;
+      }
+    }
+  }
+}
