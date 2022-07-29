@@ -531,31 +531,49 @@
                     </div>
                     <ul class="sidebar-soicauvip-list list-unstyled bg-white rounded-bottom">
                         <li class="p-2">
-                            <a href="">Soi cầu XSMB</a>
+                            <img src="images/icon1.png">
+                            <a class="ps-2" href="">Soi cầu XSMB</a>
+                            <img src="images/icon-hot.png">
                         </li>
                         <li class="p-2">
-                            <a href="">Soi cầu XSMB Win2888</a>
+                            <img src="images/icon1.png">
+                            <a class="ps-2" href="">Soi cầu XSMB Win2888</a>
+                            <img src="images/icon-hot.png">
                         </li>
                         <li class="p-2">
-                            <a href="">Soi cầu Miền Nam Vip</a>
+                            <img src="images/icon1.png">
+                            <a class="ps-2" href="">Soi cầu Miền Nam Vip</a>
+                            <img src="images/icon-hot.png">
                         </li>
                         <li class="p-2">
-                            <a href="">Rồng bạch kim</a>
+                            <img src="images/icon1.png">
+                            <a class="ps-2" href="">Rồng bạch kim</a>
+                            <img src="images/icon-hot.png">
                         </li>
                         <li class="p-2">
-                            <a href="">Soi cầu 3 Miền</a>
+                            <img src="images/icon1.png">
+                            <a class="ps-2" href="">Soi cầu 3 Miền</a>
+                            <img src="images/icon-hot.png">
                         </li>
                         <li class="p-2">
-                            <a href="">Soi cầu loto</a>
+                            <img src="images/icon1.png">
+                            <a class="ps-2" href="">Soi cầu loto</a>
+                            <img src="images/icon-hot.png">
                         </li>
                         <li class="p-2">
-                            <a href="">Soi cầu đặc biệt</a>
+                            <img src="images/icon1.png">
+                            <a class="ps-2" href="">Soi cầu đặc biệt</a>
+                            <img src="images/icon-hot.png">
                         </li>
                         <li class="p-2">
-                            <a href="">Soi cầu 366</a>
+                            <img src="images/icon1.png">
+                            <a class="ps-2" href="">Soi cầu 366</a>
+                            <img src="images/icon-hot.png">
                         </li>
                         <li class="p-2">
-                            <a href="">Soi cầu Việt</a>
+                            <img src="images/icon1.png">
+                            <a class="ps-2" href="">Soi cầu Việt</a>
+                            <img src="images/icon-hot.png">
                         </li>
                     </ul>
                 </div>

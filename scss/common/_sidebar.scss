@@ -23,7 +23,11 @@
   .sidebar-soicauvip-list {
     list-style: none;
     li {
+      &:nth-child(odd) {
+        background-color: getColor(blue, 1);
+      }
       a {
+        color: getColor(black, 1);
         text-decoration: none;
       }
     }

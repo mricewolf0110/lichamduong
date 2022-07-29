@@ -2,30 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="151b1fcb-d7c1-4803-bd04-8e49cc9e4dcf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/fonts/icomoon.eot" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/icomoon.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/icomoon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/icomoon.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/icomoon.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/icomoon.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/icomoon.woff" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/icomoon.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/KM-728x90-1.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/du-doan-xo-so-mien-bac-22-4-2022-120x86.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/du-doan-xo-so-mien-bac-23-4-2022-120x86.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/du-doan-xo-so-mien-bac-24-4-2022-120x86.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/du-doan-xo-so-mien-bac-24-4-2022-350x250.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/du-doan-xo-so-mien-bac-24-4-2022-360x180.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/du-doan-xo-so-mien-bac-3-5-2022-750x536.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/du-doan-xo-so-mien-bac-360x180.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/hinh-anh-banh-kem-chuc-mung-sinh-nhat-lang-man-dep-350x250.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/icon-soi-cau-vip.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/jeg-empty.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/lich-am-duong-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logo-lich-am-duong-200x60-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/new-LICHAMDUONG.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/s9-728x90-4.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/socolive-2022-728x90-1.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/soi-cau-rong-bach-kim-12-5-2022-350x250.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery-3.6.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/common/_sidebar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/common/_sidebar.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/common/_var.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/common/_var.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/scss/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/index.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/scss/index.css.map" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,5 +65,8 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

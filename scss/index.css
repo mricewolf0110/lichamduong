@@ -10925,63 +10925,15 @@ textarea.form-control-lg {
 }
 
 .text-blue1 {
-  color: #45629f;
+  color: #effaff;
 }
 
 .bg-blue1 {
-  background-color: #45629f;
+  background-color: #effaff;
 }
 
 .border-blue1 {
-  border-color: #45629f !important;
-}
-
-.text-blue2 {
-  color: #1e73be;
-}
-
-.bg-blue2 {
-  background-color: #1e73be;
-}
-
-.border-blue2 {
-  border-color: #1e73be !important;
-}
-
-.text-blue3 {
-  color: #0000ff;
-}
-
-.bg-blue3 {
-  background-color: #0000ff;
-}
-
-.border-blue3 {
-  border-color: #0000ff !important;
-}
-
-.text-blue4 {
-  color: #333399;
-}
-
-.bg-blue4 {
-  background-color: #333399;
-}
-
-.border-blue4 {
-  border-color: #333399 !important;
-}
-
-.text-blue5 {
-  color: #33496D;
-}
-
-.bg-blue5 {
-  background-color: #33496D;
-}
-
-.border-blue5 {
-  border-color: #33496D !important;
+  border-color: #effaff !important;
 }
 
 .text-black1 {
@@ -11236,7 +11188,11 @@ body {
 .sidebar-soicauvip .sidebar-soicauvip-list {
   list-style: none;
 }
+.sidebar-soicauvip .sidebar-soicauvip-list li:nth-child(odd) {
+  background-color: #effaff;
+}
 .sidebar-soicauvip .sidebar-soicauvip-list li a {
+  color: #060606;
   text-decoration: none;
 }
 
@@ -11374,64 +11330,16 @@ body {
     border-color: #FFF9DC !important;
   }
   .text-lg-blue1 {
-    color: #45629f;
+    color: #effaff;
   }
   .text-lg-blue1 a {
-    color: #45629f;
+    color: #effaff;
   }
   .bg-lg-blue1 {
-    background-color: #45629f;
+    background-color: #effaff;
   }
   .border-lg-blue1 {
-    border-color: #45629f !important;
-  }
-  .text-lg-blue2 {
-    color: #1e73be;
-  }
-  .text-lg-blue2 a {
-    color: #1e73be;
-  }
-  .bg-lg-blue2 {
-    background-color: #1e73be;
-  }
-  .border-lg-blue2 {
-    border-color: #1e73be !important;
-  }
-  .text-lg-blue3 {
-    color: #0000ff;
-  }
-  .text-lg-blue3 a {
-    color: #0000ff;
-  }
-  .bg-lg-blue3 {
-    background-color: #0000ff;
-  }
-  .border-lg-blue3 {
-    border-color: #0000ff !important;
-  }
-  .text-lg-blue4 {
-    color: #333399;
-  }
-  .text-lg-blue4 a {
-    color: #333399;
-  }
-  .bg-lg-blue4 {
-    background-color: #333399;
-  }
-  .border-lg-blue4 {
-    border-color: #333399 !important;
-  }
-  .text-lg-blue5 {
-    color: #33496D;
-  }
-  .text-lg-blue5 a {
-    color: #33496D;
-  }
-  .bg-lg-blue5 {
-    background-color: #33496D;
-  }
-  .border-lg-blue5 {
-    border-color: #33496D !important;
+    border-color: #effaff !important;
   }
   .text-lg-black1 {
     color: #060606;
