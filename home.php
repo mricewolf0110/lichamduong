@@ -577,6 +577,124 @@
                         </li>
                     </ul>
                 </div>
+
+                <div class="sidebar-news mt-4">
+                    <div class="bg-black1 d-flex align-items-center rounded-top py-1">
+                        <img src="images/icon.png" width="14" height="14" class="mx-3">
+                        <div class="d-inline-block text-white fs-20 text-uppercase fw-bold">dự đoán xổ số</div>
+                    </div>
+                    <div class="bg-white rounded-bottom">
+                        <div class="row py-3 px-2">
+                            <div class="col-5 d-flex align-items-center">
+                                <a href="">
+                                    <img src="images/dudoanxoso.png" width="101" height="61">
+                                </a>
+                            </div>
+                            <div class="col-7 fs-15 sidebar-news-title">
+                                <a href="" class="fw-bold">Ngủ mơ sinh nhật là điềm báo gì? Đánh con số nào?</a>
+                            </div>
+                        </div>
+                        <div class="row py-3 px-2">
+                            <div class="col-5 d-flex align-items-center">
+                                <a href="">
+                                    <img src="images/dudoanxoso.png" width="101" height="61">
+                                </a>
+                            </div>
+                            <div class="col-7 fs-15 sidebar-news-title">
+                                <a href="" class="fw-bold">Ngủ mơ sinh nhật là điềm báo gì? Đánh con số nào?</a>
+                            </div>
+                        </div>
+                        <div class="row py-3 px-2">
+                            <div class="col-5 d-flex align-items-center">
+                                <a href="">
+                                    <img src="images/dudoanxoso.png" width="101" height="61">
+                                </a>
+                            </div>
+                            <div class="col-7 fs-15 sidebar-news-title">
+                                <a href="" class="fw-bold">Ngủ mơ sinh nhật là điềm báo gì? Đánh con số nào?</a>
+                            </div>
+                        </div>
+                        <div class="row py-3 px-2">
+                            <div class="col-5 d-flex align-items-center">
+                                <a href="">
+                                    <img src="images/dudoanxoso.png" width="101" height="61">
+                                </a>
+                            </div>
+                            <div class="col-7 fs-15 sidebar-news-title">
+                                <a href="" class="fw-bold">Ngủ mơ sinh nhật là điềm báo gì? Đánh con số nào?</a>
+                            </div>
+                        </div>
+                        <div class="row py-3 px-2">
+                            <div class="col-5 d-flex align-items-center">
+                                <a href="">
+                                    <img src="images/dudoanxoso.png" width="101" height="61">
+                                </a>
+                            </div>
+                            <div class="col-7 fs-15 sidebar-news-title">
+                                <a href="" class="fw-bold">Ngủ mơ sinh nhật là điềm báo gì? Đánh con số nào?</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="sidebar-news mt-4">
+                    <div class="bg-black1 d-flex align-items-center rounded-top py-1">
+                        <img src="images/icon.png" width="14" height="14" class="mx-3">
+                        <div class="d-inline-block text-white fs-20 text-uppercase fw-bold">giải mã giấc mơ</div>
+                    </div>
+                    <div class="bg-white rounded-bottom">
+                        <div class="row py-3 px-2">
+                            <div class="col-5 d-flex align-items-center">
+                                <a href="">
+                                    <img src="images/dudoanxoso.png" width="101" height="61">
+                                </a>
+                            </div>
+                            <div class="col-7 fs-15 sidebar-news-title">
+                                <a href="" class="fw-bold">Ngủ mơ sinh nhật là điềm báo gì? Đánh con số nào?</a>
+                            </div>
+                        </div>
+                        <div class="row py-3 px-2">
+                            <div class="col-5 d-flex align-items-center">
+                                <a href="">
+                                    <img src="images/dudoanxoso.png" width="101" height="61">
+                                </a>
+                            </div>
+                            <div class="col-7 fs-15 sidebar-news-title">
+                                <a href="" class="fw-bold">Ngủ mơ sinh nhật là điềm báo gì? Đánh con số nào?</a>
+                            </div>
+                        </div>
+                        <div class="row py-3 px-2">
+                            <div class="col-5 d-flex align-items-center">
+                                <a href="">
+                                    <img src="images/dudoanxoso.png" width="101" height="61">
+                                </a>
+                            </div>
+                            <div class="col-7 fs-15 sidebar-news-title">
+                                <a href="" class="fw-bold">Ngủ mơ sinh nhật là điềm báo gì? Đánh con số nào?</a>
+                            </div>
+                        </div>
+                        <div class="row py-3 px-2">
+                            <div class="col-5 d-flex align-items-center">
+                                <a href="">
+                                    <img src="images/dudoanxoso.png" width="101" height="61">
+                                </a>
+                            </div>
+                            <div class="col-7 fs-15 sidebar-news-title">
+                                <a href="" class="fw-bold">Ngủ mơ sinh nhật là điềm báo gì? Đánh con số nào?</a>
+                            </div>
+                        </div>
+                        <div class="row py-3 px-2">
+                            <div class="col-5 d-flex align-items-center">
+                                <a href="">
+                                    <img src="images/dudoanxoso.png" width="101" height="61">
+                                </a>
+                            </div>
+                            <div class="col-7 fs-15 sidebar-news-title">
+                                <a href="" class="fw-bold">Ngủ mơ sinh nhật là điềm báo gì? Đánh con số nào?</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </section>

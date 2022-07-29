@@ -11196,6 +11196,11 @@ body {
   text-decoration: none;
 }
 
+.sidebar-news .sidebar-news-title a {
+  text-decoration: none;
+  color: #060606;
+}
+
 @media screen and (min-width: 992px) and (max-width: 1199px) {
   .text-lg-grey1 {
     color: #F4F4F4;

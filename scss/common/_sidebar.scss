@@ -33,3 +33,12 @@
     }
   }
 }
+
+.sidebar-news {
+  .sidebar-news-title {
+    a {
+      text-decoration: none;
+      color: getColor(black, 1);
+    }
+  }
+}

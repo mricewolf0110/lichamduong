@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="151b1fcb-d7c1-4803-bd04-8e49cc9e4dcf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/images/dudoanxoso.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/home.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/common/_sidebar.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/common/_sidebar.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scss/common/_var.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/common/_var.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/scss/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/index.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/scss/index.css.map" afterDir="false" />
     </list>
@@ -60,6 +60,7 @@
       <workItem from="1658973745856" duration="8099000" />
       <workItem from="1658989770694" duration="2921000" />
       <workItem from="1658992847946" duration="2110000" />
+      <workItem from="1659076561084" duration="995000" />
     </task>
     <servers />
   </component>
@@ -67,6 +68,15 @@
     <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
