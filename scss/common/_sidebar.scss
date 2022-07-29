@@ -7,6 +7,25 @@
       &:last-child {
         @extend .pb-5;
       }
+      .topnhacai-member-num {
+        top: 0.15rem;
+        left: 0.65rem;
+        font-weight: bold;
+      }
+    }
+    .position-absolute {
+      left: 0;
+    }
+  }
+}
+
+.sidebar-soicauvip {
+  .sidebar-soicauvip-list {
+    list-style: none;
+    li {
+      a {
+        text-decoration: none;
+      }
     }
   }
 }

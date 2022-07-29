@@ -7666,7 +7666,7 @@ textarea.form-control-lg {
   padding: 3rem !important;
 }
 
-.px-0 {
+.px-0, .page-navbar-pc li a {
   padding-right: 0 !important;
   padding-left: 0 !important;
 }
@@ -11188,8 +11188,8 @@ body {
   z-index: 1;
 }
 
-.page-navbar-pc li:first-child a {
-  padding-left: 0;
+.page-navbar-pc {
+  line-height: 2.25rem;
 }
 .page-navbar-pc li a {
   text-transform: uppercase;
@@ -11197,6 +11197,24 @@ body {
 }
 .page-navbar-pc li a:hover {
   color: lightblue;
+}
+.page-navbar-pc > .nav-item {
+  position: relative;
+}
+.page-navbar-pc > .nav-item .nav-link:before {
+  content: "";
+  display: inline-block;
+  position: absolute;
+  bottom: 0.75rem;
+  left: 0;
+  height: 2px;
+  width: 1%;
+  transition: width 0.5s ease;
+  background-color: transparent;
+}
+.page-navbar-pc > .nav-item .nav-link:hover:before {
+  background-color: #b33221;
+  width: 75%;
 }
 
 .input-group input::placeholder {
@@ -11206,6 +11224,22 @@ body {
 .sidebar-topnhacai .bg-white .topnhacai-member:not(:last-child) {
   border-bottom: 2px dotted #cccccc;
 }
+.sidebar-topnhacai .bg-white .topnhacai-member .topnhacai-member-num {
+  top: 0.15rem;
+  left: 0.65rem;
+  font-weight: bold;
+}
+.sidebar-topnhacai .bg-white .position-absolute {
+  left: 0;
+}
+
+.sidebar-soicauvip .sidebar-soicauvip-list {
+  list-style: none;
+}
+.sidebar-soicauvip .sidebar-soicauvip-list li a {
+  text-decoration: none;
+}
+
 @media screen and (min-width: 992px) and (max-width: 1199px) {
   .text-lg-grey1 {
     color: #F4F4F4;

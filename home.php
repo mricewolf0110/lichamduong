@@ -53,7 +53,7 @@
             </button>
         </div>
         <div class="d-none d-lg-flex container justify-content-between align-items-center">
-            <ul class="nav fs-16 fs-lg-12 fs-xl-14 page-navbar-pc col-12 col-lg-9 justify-content-between">
+            <ul class="nav fs-16 fs-lg-12 fs-xl-14 page-navbar-pc col-12 col-lg-9 justify-content-around">
                 <li class="nav-item">
                     <a href="" class="nav-link">Trang chủ</a>
                 </li>
@@ -89,7 +89,7 @@
             <div class="col-12 col-lg-8 col-xl-9">
                 <div class="bg-black1 d-flex align-items-center rounded-top py-1">
                     <img src="images/icon.png" width="14" height="14" class="mx-3">
-                    <div class="d-inline-block text-white fs-20 ">Soi cầu xổ số hôm nay</div>
+                    <div class="d-inline-block text-white fs-20 text-uppercase fw-bold">Soi cầu xổ số hôm nay</div>
                 </div>
                 <div class="bg-white p-3">
                     <p class="fs-16">Soi cầu xổ số - chuyên trang soi cầu và dự đoán xổ số hàng ngày siêu chuẩn hoàn toàn miễn phí. Chúng tôi cung cấp các thông tin về kết quả xổ số, dự đoán xổ số, thống kê xổ số nhanh nhất và hoàn toàn chính xác. Các thông tin của chúng tôi cập nhật nhanh chóng hàng ngày.</p>
@@ -393,12 +393,16 @@
                 <div class="sidebar-topnhacai">
                     <div class="bg-black1 d-flex align-items-center rounded-top py-1">
                         <img src="images/icon.png" width="14" height="14" class="mx-3">
-                        <div class="d-inline-block text-white fs-20 ">Top nhà cái</div>
+                        <div class="d-inline-block text-white fs-20 text-uppercase fw-bold">Top nhà cái</div>
                     </div>
                     <div class="bg-white rounded-bottom">
-                        <div class="d-flex py-3 px-2 justify-content-around topnhacai-member">
-                            <a href="">
-                                <img src="images/sidebar-icon.png" width="83" height="83" >
+                        <div class="d-flex py-4 px-2 justify-content-around topnhacai-member position-relative">
+                            <a class="position-relative" href="">
+                                <img src="images/sidebar-icon.png" width="83" height="83">
+                                <span class="position-absolute text-white text-decoration-none">
+                                    <img src="images/sidebar-icon-number.png">
+                                    <span class="position-absolute topnhacai-member-num">1</span>
+                                </span>
                             </a>
                             <div>
                                 <div class="fw-bold">Nhà cái 388Bet</div>
@@ -417,9 +421,13 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="d-flex py-3 px-2 justify-content-around topnhacai-member">
-                            <a href="">
-                                <img src="images/sidebar-icon.png" width="83" height="83" >
+                        <div class="d-flex py-4 px-2 justify-content-around topnhacai-member position-relative">
+                            <a class="position-relative" href="">
+                                <img src="images/sidebar-icon.png" width="83" height="83">
+                                <span class="position-absolute text-white text-decoration-none">
+                                    <img src="images/sidebar-icon-number.png">
+                                    <span class="position-absolute topnhacai-member-num">2</span>
+                                </span>
                             </a>
                             <div>
                                 <div class="fw-bold">Nhà cái 388Bet</div>
@@ -438,9 +446,13 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="d-flex py-3 px-2 justify-content-around topnhacai-member">
-                            <a href="">
-                                <img src="images/sidebar-icon.png" width="83" height="83" >
+                        <div class="d-flex py-4 px-2 justify-content-around topnhacai-member position-relative">
+                            <a class="position-relative" href="">
+                                <img src="images/sidebar-icon.png" width="83" height="83">
+                                <span class="position-absolute text-white text-decoration-none">
+                                    <img src="images/sidebar-icon-number.png">
+                                    <span class="position-absolute topnhacai-member-num">3</span>
+                                </span>
                             </a>
                             <div>
                                 <div class="fw-bold">Nhà cái 388Bet</div>
@@ -459,9 +471,13 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="d-flex py-3 px-2 justify-content-around topnhacai-member">
-                            <a href="">
-                                <img src="images/sidebar-icon.png" width="83" height="83" >
+                        <div class="d-flex py-4 px-2 justify-content-around topnhacai-member position-relative">
+                            <a class="position-relative" href="">
+                                <img src="images/sidebar-icon.png" width="83" height="83">
+                                <span class="position-absolute text-white text-decoration-none">
+                                    <img src="images/sidebar-icon-number.png">
+                                    <span class="position-absolute topnhacai-member-num">4</span>
+                                </span>
                             </a>
                             <div>
                                 <div class="fw-bold">Nhà cái 388Bet</div>
@@ -480,9 +496,13 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="d-flex py-3 px-2 justify-content-around topnhacai-member">
-                            <a href="">
-                                <img src="images/sidebar-icon.png" width="83" height="83" >
+                        <div class="d-flex py-4 px-2 justify-content-around topnhacai-member position-relative">
+                            <a class="position-relative" href="">
+                                <img src="images/sidebar-icon.png" width="83" height="83">
+                                <span class="position-absolute text-white text-decoration-none">
+                                    <img src="images/sidebar-icon-number.png">
+                                    <span class="position-absolute topnhacai-member-num">5</span>
+                                </span>
                             </a>
                             <div>
                                 <div class="fw-bold">Nhà cái 388Bet</div>
@@ -501,6 +521,54 @@
                                 </div>
                             </div>
                         </div>
+                    </div>
+                </div>
+
+                <div class="sidebar-soicauvip mt-4">
+                    <div class="bg-black1 d-flex align-items-center rounded-top py-1">
+                        <img src="images/icon.png" width="14" height="14" class="mx-3">
+                        <div class="d-inline-block text-white fs-20 text-uppercase fw-bold">soi cầu vip</div>
+                    </div>
+                    <ul class="sidebar-soicauvip-list list-unstyled bg-white rounded-bottom">
+                        <li class="p-2">
+                            <a href="">Soi cầu XSMB</a>
+                        </li>
+                        <li class="p-2">
+                            <a href="">Soi cầu XSMB Win2888</a>
+                        </li>
+                        <li class="p-2">
+                            <a href="">Soi cầu Miền Nam Vip</a>
+                        </li>
+                        <li class="p-2">
+                            <a href="">Rồng bạch kim</a>
+                        </li>
+                        <li class="p-2">
+                            <a href="">Soi cầu 3 Miền</a>
+                        </li>
+                        <li class="p-2">
+                            <a href="">Soi cầu loto</a>
+                        </li>
+                        <li class="p-2">
+                            <a href="">Soi cầu đặc biệt</a>
+                        </li>
+                        <li class="p-2">
+                            <a href="">Soi cầu 366</a>
+                        </li>
+                        <li class="p-2">
+                            <a href="">Soi cầu Việt</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="bg-grey4">
+        <div class="container">
+            <div class="row">
+                <div class="col-9">
+                    <div class="row">
+
                     </div>
                 </div>
             </div>
