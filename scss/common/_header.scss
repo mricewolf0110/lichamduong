@@ -33,7 +33,7 @@
       }
     }
   }
-  .sub-menu {
+  .has-submenu {
     position: relative;
     & > .nav-link {
       &:after {
@@ -82,5 +82,32 @@
 }
 
 .page-menu-mobi {
-
+  & > ul {
+    & > li {
+      a {
+        color: getColor(black, 1);
+        &:hover {
+          color: lightblue;
+        }
+      }
+    }
+  }
+  .has-submenu {
+    position: relative;
+    .sub-menu {
+      display: none;
+      .nav-item {
+        @extend .border-bottom;
+      }
+    }
+    &:hover {
+      .sub-menu {
+        display: flex;
+      }
+    }
+    .icon-cheveron-right:hover {
+      transform: rotateZ(90deg);
+      border-color: transparent;
+    }
+  }
 }

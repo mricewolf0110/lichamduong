@@ -34,7 +34,12 @@
                 <div class="modal-dialog modal-fullscreen">
                     <div class="modal-content">
                         <div class="modal-header">
-                            <h5 class="modal-title text-uppercase" id="exampleModalLabel">SOI CẦU XỔ SỐ</h5>
+                            <div class="input-group d-flex border rounded-pill">
+                                <input type="search" placeholder="Tìm kiếm..." id="form1" class="form-control border-0 rounded-pill shadow-none">
+                                <button type="button" class="btn border-0">
+                                    <i class="icon-search"></i>
+                                </button>
+                            </div>
                             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                         </div>
                         <div class="modal-body page-menu-mobi">
@@ -42,83 +47,95 @@
                                 <li class="p-2">
                                     <a href="">Trang chủ</a>
                                 </li>
-                                <li class="p-2 sub-menu">
-                                    <a href="">Kết quả xổ số</a>
-                                    <ul class="list-unstyled d-none">
-                                        <li>
-                                            <a href="">Kết quả xổ số</a>
+                                <li class="p-2 has-submenu">
+                                    <div class="d-flex justify-content-between">
+                                        <a href="">Kết quả xổ số</a>
+                                        <button class="btn icon-cheveron-right"></button>
+                                    </div>
+                                    <ul class="nav flex-column sub-menu">
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="">Kết quả xổ số</a>
                                         </li>
-                                        <li>
-                                            <a href="">Kết quả xổ số</a>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="">Kết quả xổ số</a>
                                         </li>
-                                        <li>
-                                            <a href="">Kết quả xổ số</a>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="">Kết quả xổ số</a>
                                         </li>
-                                        <li>
-                                            <a href="">Kết quả xổ số</a>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="">Kết quả xổ số</a>
                                         </li>
-                                        <li>
-                                            <a href="">Kết quả xổ số</a>
-                                        </li>
-                                    </ul>
-                                </li>
-                                <li class="p-2 sub-menu">
-                                    <a href="" >Dự đoán xổ số</a>
-                                    <ul class="list-unstyled d-none">
-                                        <li>
-                                            <a href="">Kết quả xổ số</a>
-                                        </li>
-                                        <li>
-                                            <a href="" >Kết quả xổ số</a>
-                                        </li>
-                                        <li>
-                                            <a href="" >Kết quả xổ số</a>
-                                        </li>
-                                        <li>
-                                            <a href="" >Kết quả xổ số</a>
-                                        </li>
-                                        <li>
-                                            <a href="" >Kết quả xổ số</a>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="">Kết quả xổ số</a>
                                         </li>
                                     </ul>
                                 </li>
-                                <li class="p-2 sub-menu">
-                                    <a href="" >soi cầu vip</a>
-                                    <ul class="list-unstyled d-none">
-                                        <li>
-                                            <a href="" >Kết quả xổ số</a>
+                                <li class="p-2 has-submenu">
+                                    <div class="d-flex justify-content-between">
+                                        <a href="" >Dự đoán xổ số</a>
+                                        <button class="btn icon-cheveron-right"></button>
+                                    </div>
+                                    <ul class="nav flex-column sub-menu">
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="">Kết quả xổ số</a>
                                         </li>
-                                        <li>
-                                            <a href="" >Kết quả xổ số</a>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="" >Kết quả xổ số</a>
                                         </li>
-                                        <li>
-                                            <a href="" >Kết quả xổ số</a>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="" >Kết quả xổ số</a>
                                         </li>
-                                        <li>
-                                            <a href="" >Kết quả xổ số</a>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="" >Kết quả xổ số</a>
                                         </li>
-                                        <li>
-                                            <a href="" >Kết quả xổ số</a>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="" >Kết quả xổ số</a>
                                         </li>
                                     </ul>
                                 </li>
-                                <li class="p-2 sub-menu">
-                                    <a href="" >Quay thử xổ số</a>
-                                    <ul class="list-unstyled d-none">
-                                        <li>
-                                            <a href="" >Kết quả xổ số</a>
+                                <li class="p-2 has-submenu">
+                                    <div class="d-flex justify-content-between">
+                                        <a href="" >soi cầu vip</a>
+                                        <button class="btn icon-cheveron-right"></button>
+                                    </div>
+                                    <ul class="nav flex-column sub-menu">
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="" >Kết quả xổ số</a>
                                         </li>
-                                        <li>
-                                            <a href="" >Kết quả xổ số</a>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="" >Kết quả xổ số</a>
                                         </li>
-                                        <li>
-                                            <a href="" >Kết quả xổ số</a>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="" >Kết quả xổ số</a>
                                         </li>
-                                        <li>
-                                            <a href="" >Kết quả xổ số</a>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="" >Kết quả xổ số</a>
                                         </li>
-                                        <li>
-                                            <a href="" >Kết quả xổ số</a>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="" >Kết quả xổ số</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="p-2 has-submenu">
+                                    <div class="d-flex justify-content-between">
+                                        <a href="" >Quay thử xổ số</a>
+                                        <button class="btn icon-cheveron-right"></button>
+                                    </div>
+                                    <ul class="nav flex-column sub-menu">
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="" >Kết quả xổ số</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="" >Kết quả xổ số</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="" >Kết quả xổ số</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="" >Kết quả xổ số</a>
+                                        </li>
+                                        <li class="nav-item">
+                                            <a class="nav-link" href="" >Kết quả xổ số</a>
                                         </li>
                                     </ul>
                                 </li>
@@ -143,7 +160,7 @@
                 <li class="nav-item">
                     <a href="" class="nav-link">Trang chủ</a>
                 </li>
-                <li class="nav-item sub-menu">
+                <li class="nav-item has-submenu">
                     <a href="" class="nav-link">Kết quả xổ số</a>
                     <ul class="list-unstyled">
                         <li>
@@ -163,7 +180,7 @@
                         </li>
                     </ul>
                 </li>
-                <li class="nav-item sub-menu">
+                <li class="nav-item has-submenu">
                     <a href="" class="nav-link">Dự đoán xổ số</a>
                     <ul class="list-unstyled">
                         <li>
@@ -183,7 +200,7 @@
                         </li>
                     </ul>
                 </li>
-                <li class="nav-item sub-menu">
+                <li class="nav-item has-submenu">
                     <a href="" class="nav-link">soi cầu vip</a>
                     <ul class="list-unstyled">
                         <li>
@@ -203,7 +220,7 @@
                         </li>
                     </ul>
                 </li>
-                <li class="nav-item sub-menu">
+                <li class="nav-item has-submenu">
                     <a href="" class="nav-link">Quay thử xổ số</a>
                     <ul class="list-unstyled">
                         <li>
