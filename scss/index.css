@@ -7095,7 +7095,7 @@ textarea.form-control-lg {
   border-right: 0 !important;
 }
 
-.border-bottom {
+.border-bottom, .page-navbar-pc .sub-menu ul li:not(:last-child) {
   border-bottom: var(--bs-border-width) var(--bs-border-style) var(--bs-border-color) !important;
 }
 
@@ -7666,7 +7666,7 @@ textarea.form-control-lg {
   padding: 3rem !important;
 }
 
-.px-0, .page-navbar-pc li a {
+.px-0 {
   padding-right: 0 !important;
   padding-left: 0 !important;
 }
@@ -10760,8 +10760,8 @@ textarea.form-control-lg {
 }
 @font-face {
   font-family: "icomoon";
-  src: url("../fonts/icomoon.eot?rjmxpy");
-  src: url("../fonts/icomoon.eot?rjmxpy#iefix") format("embedded-opentype"), url("../fonts/icomoon.ttf?rjmxpy") format("truetype"), url("../fonts/icomoon.woff?rjmxpy") format("woff"), url("../fonts/icomoon.svg?rjmxpy#icomoon") format("svg");
+  src: url("../fonts/icomoon.eot?l2e48u");
+  src: url("../fonts/icomoon.eot?l2e48u#iefix") format("embedded-opentype"), url("../fonts/icomoon.ttf?l2e48u") format("truetype"), url("../fonts/icomoon.woff?l2e48u") format("woff"), url("../fonts/icomoon.svg?l2e48u#icomoon") format("svg");
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -10786,6 +10786,14 @@ textarea.form-control-lg {
 
 .icon-search:before {
   content: "\e90d";
+}
+
+.icon-chevron-down:before {
+  content: "\e908";
+}
+
+.icon-cheveron-right:before {
+  content: "\e901";
 }
 
 .icon-star-full:before {
@@ -10946,6 +10954,18 @@ textarea.form-control-lg {
 
 .border-black1 {
   border-color: #060606 !important;
+}
+
+.text-black2 {
+  color: #151414;
+}
+
+.bg-black2 {
+  background-color: #151414;
+}
+
+.border-black2 {
+  border-color: #151414 !important;
 }
 
 .text-white1 {
@@ -11140,10 +11160,19 @@ body {
   z-index: 1;
 }
 
+a {
+  text-decoration: none;
+}
+a:hover {
+  color: #b33221;
+}
+
 .page-navbar-pc {
   line-height: 2.25rem;
 }
 .page-navbar-pc li a {
+  padding-left: 0;
+  padding-right: 0;
   text-transform: uppercase;
   color: white;
 }
@@ -11167,6 +11196,39 @@ body {
 .page-navbar-pc > .nav-item .nav-link:hover:before {
   background-color: #b33221;
   width: 75%;
+}
+.page-navbar-pc .sub-menu {
+  position: relative;
+}
+.page-navbar-pc .sub-menu > .nav-link:after {
+  font-family: icomoon;
+  content: "\e908";
+  color: #cec9c8;
+  padding-left: 0.25rem;
+}
+.page-navbar-pc .sub-menu ul {
+  border: 1px #d9d8d8 solid;
+  border-top: none;
+  display: none;
+  position: absolute;
+}
+.page-navbar-pc .sub-menu ul li {
+  width: 10rem;
+  background-color: white;
+}
+.page-navbar-pc .sub-menu ul li:hover {
+  background-color: #d9d8d8;
+}
+.page-navbar-pc .sub-menu ul li:hover a {
+  color: #b33221 !important;
+}
+.page-navbar-pc .sub-menu ul li a {
+  color: #060606;
+  padding-left: 1rem;
+  padding-left: 1rem;
+}
+.page-navbar-pc .sub-menu:hover ul {
+  display: block;
 }
 
 .input-group input::placeholder {
@@ -11357,6 +11419,18 @@ body {
   }
   .border-lg-black1 {
     border-color: #060606 !important;
+  }
+  .text-lg-black2 {
+    color: #151414;
+  }
+  .text-lg-black2 a {
+    color: #151414;
+  }
+  .bg-lg-black2 {
+    background-color: #151414;
+  }
+  .border-lg-black2 {
+    border-color: #151414 !important;
   }
   .text-lg-white1 {
     color: #fff;

@@ -6,15 +6,15 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Soi Cầu Xổ Số</title>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <style><?=file_get_contents('scss/index.css')?></style>
     <script><?=file_get_contents('js/bootstrap.min.js')?></script>
+    <link rel="shortcut icon" type="image/png" href="images/favicon.png"/>
 </head>
 <body>
     <header class="d-none d-lg-block container py-3">
         <div class="d-flex justify-content-between align-items-center">
             <a href="" class="page-logo d-block" title="">
-                <img src="images/logo.png" width="272" height="70" alt="homepage">
+                <img src="images/Soi Cau Xo So-01.png" width="272" height="70" alt="homepage">
             </a>
             <a href="" class="page-banner d-block" title="">
                 <img src="images/banner.png" width="728" height="90" alt="homepage">
@@ -24,25 +24,111 @@
 
     <section class="bg-black1 sticky-top">
         <!-- Button trigger modal -->
-        <div class="d-lg-none d-flex justify-content-between">
+        <div class="d-lg-none d-xl-none d-flex justify-content-between">
             <button type="button" class="btn border-0" data-bs-toggle="modal" data-bs-target="#exampleModal">
                 <i class="icon-menu text-white"></i>
             </button>
 
             <!-- Modal -->
             <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-                <div class="modal-dialog">
+                <div class="modal-dialog modal-fullscreen">
                     <div class="modal-content">
                         <div class="modal-header">
-                            <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                            <h5 class="modal-title text-uppercase" id="exampleModalLabel">SOI CẦU XỔ SỐ</h5>
                             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                         </div>
-                        <div class="modal-body">
-                            ...
+                        <div class="modal-body page-menu-mobi">
+                            <ul class="list-unstyled text-uppercase text-dark">
+                                <li class="p-2">
+                                    <a href="">Trang chủ</a>
+                                </li>
+                                <li class="p-2 sub-menu">
+                                    <a href="">Kết quả xổ số</a>
+                                    <ul class="list-unstyled d-none">
+                                        <li>
+                                            <a href="">Kết quả xổ số</a>
+                                        </li>
+                                        <li>
+                                            <a href="">Kết quả xổ số</a>
+                                        </li>
+                                        <li>
+                                            <a href="">Kết quả xổ số</a>
+                                        </li>
+                                        <li>
+                                            <a href="">Kết quả xổ số</a>
+                                        </li>
+                                        <li>
+                                            <a href="">Kết quả xổ số</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="p-2 sub-menu">
+                                    <a href="" >Dự đoán xổ số</a>
+                                    <ul class="list-unstyled d-none">
+                                        <li>
+                                            <a href="">Kết quả xổ số</a>
+                                        </li>
+                                        <li>
+                                            <a href="" >Kết quả xổ số</a>
+                                        </li>
+                                        <li>
+                                            <a href="" >Kết quả xổ số</a>
+                                        </li>
+                                        <li>
+                                            <a href="" >Kết quả xổ số</a>
+                                        </li>
+                                        <li>
+                                            <a href="" >Kết quả xổ số</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="p-2 sub-menu">
+                                    <a href="" >soi cầu vip</a>
+                                    <ul class="list-unstyled d-none">
+                                        <li>
+                                            <a href="" >Kết quả xổ số</a>
+                                        </li>
+                                        <li>
+                                            <a href="" >Kết quả xổ số</a>
+                                        </li>
+                                        <li>
+                                            <a href="" >Kết quả xổ số</a>
+                                        </li>
+                                        <li>
+                                            <a href="" >Kết quả xổ số</a>
+                                        </li>
+                                        <li>
+                                            <a href="" >Kết quả xổ số</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="p-2 sub-menu">
+                                    <a href="" >Quay thử xổ số</a>
+                                    <ul class="list-unstyled d-none">
+                                        <li>
+                                            <a href="" >Kết quả xổ số</a>
+                                        </li>
+                                        <li>
+                                            <a href="" >Kết quả xổ số</a>
+                                        </li>
+                                        <li>
+                                            <a href="" >Kết quả xổ số</a>
+                                        </li>
+                                        <li>
+                                            <a href="" >Kết quả xổ số</a>
+                                        </li>
+                                        <li>
+                                            <a href="" >Kết quả xổ số</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="p-2">
+                                    <a href="" >giải mã giấc mơ</a>
+                                </li>
+                            </ul>
                         </div>
-                        <div class="modal-footer">
-                            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-                            <button type="button" class="btn btn-primary">Save changes</button>
+                        <div class="modal-footer bg-black1 justify-content-center">
+                            <div class="text-white">© 2020 - Bản quyền thuộc về Lịch Âm Dương.</div>
                         </div>
                     </div>
                 </div>
@@ -57,17 +143,85 @@
                 <li class="nav-item">
                     <a href="" class="nav-link">Trang chủ</a>
                 </li>
-                <li class="nav-item">
+                <li class="nav-item sub-menu">
                     <a href="" class="nav-link">Kết quả xổ số</a>
+                    <ul class="list-unstyled">
+                        <li>
+                            <a href="" >Kết quả xổ số</a>
+                        </li>
+                        <li>
+                            <a href="" >Kết quả xổ số</a>
+                        </li>
+                        <li>
+                            <a href="" >Kết quả xổ số</a>
+                        </li>
+                        <li>
+                            <a href="" >Kết quả xổ số</a>
+                        </li>
+                        <li>
+                            <a href="" >Kết quả xổ số</a>
+                        </li>
+                    </ul>
                 </li>
-                <li class="nav-item">
+                <li class="nav-item sub-menu">
                     <a href="" class="nav-link">Dự đoán xổ số</a>
+                    <ul class="list-unstyled">
+                        <li>
+                            <a href="" >Kết quả xổ số</a>
+                        </li>
+                        <li>
+                            <a href="" >Kết quả xổ số</a>
+                        </li>
+                        <li>
+                            <a href="" >Kết quả xổ số</a>
+                        </li>
+                        <li>
+                            <a href="" >Kết quả xổ số</a>
+                        </li>
+                        <li>
+                            <a href="" >Kết quả xổ số</a>
+                        </li>
+                    </ul>
                 </li>
-                <li class="nav-item">
+                <li class="nav-item sub-menu">
                     <a href="" class="nav-link">soi cầu vip</a>
+                    <ul class="list-unstyled">
+                        <li>
+                            <a href="" >Kết quả xổ số</a>
+                        </li>
+                        <li>
+                            <a href="" >Kết quả xổ số</a>
+                        </li>
+                        <li>
+                            <a href="" >Kết quả xổ số</a>
+                        </li>
+                        <li>
+                            <a href="" >Kết quả xổ số</a>
+                        </li>
+                        <li>
+                            <a href="" >Kết quả xổ số</a>
+                        </li>
+                    </ul>
                 </li>
-                <li class="nav-item">
+                <li class="nav-item sub-menu">
                     <a href="" class="nav-link">Quay thử xổ số</a>
+                    <ul class="list-unstyled">
+                        <li>
+                            <a href="" >Kết quả xổ số</a>
+                        </li>
+                        <li>
+                            <a href="" >Kết quả xổ số</a>
+                        </li>
+                        <li>
+                            <a href="" >Kết quả xổ số</a>
+                        </li>
+                        <li>
+                            <a href="" >Kết quả xổ số</a>
+                        </li>
+                        <li>
+                            <a href="" >Kết quả xổ số</a>
+                        </li>
+                    </ul>
                 </li>
                 <li class="nav-item">
                     <a href="" class="nav-link">giải mã giấc mơ</a>
@@ -699,13 +853,97 @@
         </div>
     </section>
 
-    <section class="bg-grey4">
+    <section class="bg-grey3 py-4 mt-5">
         <div class="container">
             <div class="row">
-                <div class="col-9">
-                    <div class="row">
-
+                <div class="col-12 col-lg-8 col-xl-9 text-center text-lg-start text-xl-start">
+                    <div class="row p-3 justify-content-between">
+                        <div class="col-12 col-lg-4 col-xl-4">
+                            <a class="text-decoration-none text-red1 text-uppercase fw-bold">soi cầu xổ số</a>
+                            <ul class="list-unstyled p-2">
+                                <li class="py-2">
+                                    <img src="images/footer-list-icon.png">
+                                    <a class="text-decoration-none text-dark" href="">Rồng bạch kim</a>
+                                </li>
+                                <li class="py-2">
+                                    <img src="images/footer-list-icon.png">
+                                    <a class="text-decoration-none text-dark" href="">Soi cầu XSMB</a>
+                                </li>
+                                <li class="py-2">
+                                    <img src="images/footer-list-icon.png">
+                                    <a class="text-decoration-none text-dark" href="">Soi cầu ba miền</a>
+                                </li>
+                                <li class="py-2">
+                                    <img src="images/footer-list-icon.png">
+                                    <a class="text-decoration-none text-dark" href="">Soi cầu đặc biệt</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="col-12 col-lg-4 col-xl-4">
+                            <a class="text-decoration-none text-red1 text-uppercase fw-bold">soi cầu xổ số</a>
+                            <ul class="list-unstyled p-2">
+                                <li class="py-2">
+                                    <img src="images/footer-list-icon.png">
+                                    <a class="text-decoration-none text-dark" href="">Rồng bạch kim</a>
+                                </li>
+                                <li class="py-2">
+                                    <img src="images/footer-list-icon.png">
+                                    <a class="text-decoration-none text-dark" href="">Soi cầu XSMB</a>
+                                </li>
+                                <li class="py-2">
+                                    <img src="images/footer-list-icon.png">
+                                    <a class="text-decoration-none text-dark" href="">Soi cầu ba miền</a>
+                                </li>
+                                <li class="py-2">
+                                    <img src="images/footer-list-icon.png">
+                                    <a class="text-decoration-none text-dark" href="">Soi cầu đặc biệt</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="col-12 col-lg-4 col-xl-4">
+                            <a class="text-decoration-none text-red1 text-uppercase fw-bold">soi cầu xổ số</a>
+                            <ul class="list-unstyled p-2">
+                                <li class="py-2">
+                                    <img src="images/footer-list-icon.png">
+                                    <a class="text-decoration-none text-dark" href="">Rồng bạch kim</a>
+                                </li>
+                                <li class="py-2">
+                                    <img src="images/footer-list-icon.png">
+                                    <a class="text-decoration-none text-dark" href="">Soi cầu XSMB</a>
+                                </li>
+                                <li class="py-2">
+                                    <img src="images/footer-list-icon.png">
+                                    <a class="text-decoration-none text-dark" href="">Soi cầu ba miền</a>
+                                </li>
+                                <li class="py-2">
+                                    <img src="images/footer-list-icon.png">
+                                    <a class="text-decoration-none text-dark" href="">Soi cầu đặc biệt</a>
+                                </li>
+                            </ul>
+                        </div>
                     </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="bg-black2 py-3">
+        <div class="container">
+            <div class="d-flex justify-content-between">
+                <div class="text-white">© 2020 - Bản quyền thuộc về Lịch Âm Dương.</div>
+                <div>
+                    <a  href="">
+                        <img src="images/icon-tt.png">
+                    </a>
+                    <a  href="">
+                        <img src="images/icon-tw.png">
+                    </a>
+                    <a  href="">
+                        <img src="images/icon-yt.png">
+                    </a>
+                    <a  href="">
+                        <img src="images/icon-fb.png">
+                    </a>
                 </div>
             </div>
         </div>

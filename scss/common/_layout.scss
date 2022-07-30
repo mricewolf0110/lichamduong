@@ -22,3 +22,10 @@ img {
 .modal-backdrop {
   z-index: 1;
 }
+
+a {
+  text-decoration: none;
+  &:hover {
+    color: getColor(red, 1);
+  }
+}
