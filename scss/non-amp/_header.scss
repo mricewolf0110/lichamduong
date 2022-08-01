@@ -1,0 +1,76 @@
+.page-navbar-pc {
+  line-height: 2.25rem;
+  .nav-link {
+    text-transform: uppercase;
+  }
+  & > .nav-item {
+    position: relative;
+    & > .nav-link {
+      padding-left: 0;
+      padding-right: 0;
+      color: white;
+      &:before {
+        content: '';
+        display: inline-block;
+        position: absolute;
+        bottom: 0.75rem;
+        left: 0;
+        height: 2px;
+        width: 1%;
+        transition: width 0.5s ease;
+        background-color: transparent;
+      }
+      &:hover {
+        color: lightblue;
+        &:before {
+          background-color: getColor(red, 1);
+          width: 75%;
+        }
+      }
+    }
+  }
+  .has-submenu {
+    position: relative;
+    & > .nav-link {
+      &:after {
+        font-family: icomoon;
+        content: "\e908";
+        color: getColor(grey, 2);
+      }
+    }
+    .sub-menu {
+      border: 1px getColor(grey, 3) solid;
+      border-top: none;
+      display: none;
+      position: absolute;
+      .nav-item {
+        width: 15em;
+        background-color: white;
+        &:hover {
+          background-color: getColor(grey, 3);
+          .nav-link {
+            color: getColor(red, 1) !important;
+          }
+        }
+        &:not(:last-child) {
+          @extend .border-bottom;
+        }
+        .nav-link {
+          padding: 0rem 1rem 0rem 1rem;
+          color: getColor(black, 1);
+        }
+      }
+    }
+    &:hover {
+      .sub-menu {
+        display: block;
+      }
+    }
+  }
+}
+
+.input-group {
+  input::placeholder {
+    color: #cccccc;
+  }
+}

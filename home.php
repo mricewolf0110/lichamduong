@@ -151,6 +151,10 @@
                 </div>
             </div>
 
+            <a href="">
+                <img src="images/Soi%20Cau%20Xo%20So%20White-01.png" width="180" height="45" class="img-fluid">
+            </a>
+
             <button class="btn border-0">
                 <i class="icon-search text-white"></i>
             </button>
@@ -162,81 +166,81 @@
                 </li>
                 <li class="nav-item has-submenu">
                     <a href="" class="nav-link">Kết quả xổ số</a>
-                    <ul class="list-unstyled">
-                        <li>
-                            <a href="" >Kết quả xổ số</a>
+                    <ul class="nav flex-column sub-menu">
+                        <li class="nav-item">
+                            <a class="nav-link" href="" >Kết quả xổ số</a>
                         </li>
-                        <li>
-                            <a href="" >Kết quả xổ số</a>
+                        <li class="nav-item">
+                            <a class="nav-link" href="" >Kết quả xổ số</a>
                         </li>
-                        <li>
-                            <a href="" >Kết quả xổ số</a>
+                        <li class="nav-item">
+                            <a class="nav-link" href="" >Kết quả xổ số</a>
                         </li>
-                        <li>
-                            <a href="" >Kết quả xổ số</a>
+                        <li class="nav-item">
+                            <a class="nav-link" href="" >Kết quả xổ số</a>
                         </li>
-                        <li>
-                            <a href="" >Kết quả xổ số</a>
+                        <li class="nav-item">
+                            <a class="nav-link" href="" >Kết quả xổ số</a>
                         </li>
                     </ul>
                 </li>
                 <li class="nav-item has-submenu">
                     <a href="" class="nav-link">Dự đoán xổ số</a>
-                    <ul class="list-unstyled">
-                        <li>
-                            <a href="" >Kết quả xổ số</a>
+                    <ul class="nav flex-column sub-menu">
+                        <li class="nav-item">
+                            <a class="nav-link" href="" >Kết quả xổ số</a>
                         </li>
-                        <li>
-                            <a href="" >Kết quả xổ số</a>
+                        <li class="nav-item">
+                            <a class="nav-link" href="" >Kết quả xổ số</a>
                         </li>
-                        <li>
-                            <a href="" >Kết quả xổ số</a>
+                        <li class="nav-item">
+                            <a class="nav-link" href="" >Kết quả xổ số</a>
                         </li>
-                        <li>
-                            <a href="" >Kết quả xổ số</a>
+                        <li class="nav-item">
+                            <a class="nav-link" href="" >Kết quả xổ số</a>
                         </li>
-                        <li>
-                            <a href="" >Kết quả xổ số</a>
+                        <li class="nav-item">
+                            <a class="nav-link" href="" >Kết quả xổ số</a>
                         </li>
                     </ul>
                 </li>
                 <li class="nav-item has-submenu">
                     <a href="" class="nav-link">soi cầu vip</a>
-                    <ul class="list-unstyled">
-                        <li>
-                            <a href="" >Kết quả xổ số</a>
+                    <ul class="nav flex-column sub-menu">
+                        <li class="nav-item">
+                            <a class="nav-link" href="" >Kết quả xổ số</a>
                         </li>
-                        <li>
-                            <a href="" >Kết quả xổ số</a>
+                        <li class="nav-item">
+                            <a class="nav-link" href="" >Kết quả xổ số</a>
                         </li>
-                        <li>
-                            <a href="" >Kết quả xổ số</a>
+                        <li class="nav-item">
+                            <a class="nav-link" href="" >Kết quả xổ số</a>
                         </li>
-                        <li>
-                            <a href="" >Kết quả xổ số</a>
+                        <li class="nav-item">
+                            <a class="nav-link" href="" >Kết quả xổ số</a>
                         </li>
-                        <li>
-                            <a href="" >Kết quả xổ số</a>
+                        <li class="nav-item">
+                            <a class="nav-link" href="" >Kết quả xổ số</a>
                         </li>
                     </ul>
                 </li>
                 <li class="nav-item has-submenu">
                     <a href="" class="nav-link">Quay thử xổ số</a>
-                    <ul class="list-unstyled">
-                        <li>
-                            <a href="" >Kết quả xổ số</a>
+                    <ul class="nav flex-column sub-menu">
+                        <li class="nav-item">
+                            <a class="nav-link" href="" >Kết quả xổ số</a>
                         </li>
-                        <li>
-                            <a href="" >Kết quả xổ số</a>
+                        <li class="nav-item">
+                            <a class="nav-link" href="" >Kết quả xổ số</a>
                         </li>
-                        <li>
-                            <a href="" >Kết quả xổ số</a>
+                        <li class="nav-item">
+                            <a class="nav-link" href="" >Kết quả xổ số</a>
                         </li>
-                        <li>
-                            <a href="" >Kết quả xổ số</a>
+                        <li class="nav-item">
+                            <a class="nav-link" href="" >Kết quả xổ số</a>
                         </li>
-                        <li>
-                            <a href="" >Kết quả xổ số</a>
+                        <li class="nav-item">
+                            <a class="nav-link" href="" >Kết quả xổ số</a>
                         </li>
                     </ul>
                 </li>
@@ -244,7 +248,7 @@
                     <a href="" class="nav-link">giải mã giấc mơ</a>
                 </li>
             </ul>
-            <div class="col-12 col-lg-3 px-2">
+            <div class="col-3 px-2">
                 <div class="input-group input-group-sm">
                     <input type="text" class="form-control shadow-none border-0" placeholder="Tìm kiếm..." aria-describedby="seach-button">
                     <button class="btn bg-white border-0" type="button" id="seach-button">
@@ -305,16 +309,15 @@
                     <p class="fw-bold mt-3">Soi cầu xổ số Miền Trung</p>
                     <p>Xổ miền Miền Trung được quay thưởng vào lúc 17h15 hàng ngày. Địa điểm quay thưởng tại các tỉnh mở thưởng. Dựa vào kết quả quay thưởng hàng ngày chúng tôi và các chuyên gia đã xây dựng được các bộ số đẹp, có xác suất về cao để người chơi tham khảo và chọn cho mình một cặp số may mắn nhất</p>
                     <table class="table">
-                        <thead class="bg-orange1 text-white">
-                            <tr>
-                                <th>Tỉnh quay thưởng</th>
-                                <th>Giải tám</th>
-                                <th>Giải đặc biệt</th>
-                                <th>Lô vip</th>
-                                <th>Lô xiên 3</th>
-                            </tr>
-                        </thead>
-                        <tbody>
+                        <thead class="bg-orange1 text-white fs-12 fs-lg-16 fs-xl-16">
+                        <tr>
+                            <th class="col-3 col-lg-auto col-xl-auto">Tỉnh quay thưởng</th>
+                            <th class="col-1 col-lg-auto col-xl-auto">Giải tám</th>
+                            <th class="col-3 col-lg-auto col-xl-auto">Giải đặc biệt</th>
+                            <th class="col-2 col-lg-auto col-xl-auto">Lô vip</th>
+                            <th class="col-3 col-lg-auto col-xl-auto">Lô xiên 3</th>
+                        </tr>
+                        <tbody class="fs-12 fs-lg-16 fs-xl-16">
                             <tr>
                                 <td>Quảng Trị</td>
                                 <td>77</td>
@@ -351,16 +354,16 @@
                     <p class="fw-bold mt-3">Soi cầu xổ số Miền Nam</p>
                     <p>Xổ miền Miền Nam được quay thưởng vào lúc 17h15 hàng ngày. Địa điểm quay thưởng tại các tỉnh mở thưởng. Dựa vào kết quả quay thưởng hàng ngày chúng tôi và các chuyên gia đã xây dựng được các bộ số đẹp, có xác suất về cao để người chơi tham khảo và chọn cho mình một cặp số may mắn nhất</p>
                     <table class="table">
-                        <thead class="bg-orange1 text-white">
-                        <tr>
-                            <th>Tỉnh quay thưởng</th>
-                            <th>Giải tám</th>
-                            <th>Giải đặc biệt</th>
-                            <th>Lô vip</th>
-                            <th>Lô xiên 3</th>
-                        </tr>
+                        <thead class="bg-orange1 text-white fs-12 fs-lg-16 fs-xl-16">
+                            <tr>
+                                <th class="col-3 col-lg-auto col-xl-auto">Tỉnh quay thưởng</th>
+                                <th class="col-1 col-lg-auto col-xl-auto">Giải tám</th>
+                                <th class="col-3 col-lg-auto col-xl-auto">Giải đặc biệt</th>
+                                <th class="col-2 col-lg-auto col-xl-auto">Lô vip</th>
+                                <th class="col-3 col-lg-auto col-xl-auto">Lô xiên 3</th>
+                            </tr>
                         </thead>
-                        <tbody>
+                        <tbody class="fs-12 fs-lg-16 fs-xl-16">
                         <tr>
                             <td>Quảng Trị</td>
                             <td>77</td>
@@ -401,12 +404,11 @@
                         <button class="px-3 py-2 bg-grey2 rounded-top me-2">Miền Trung</button>
                         <button class="px-3 py-2 bg-grey2 rounded-top">Miền Nam</button>
                     </div>
-                    <h3 class="bg-orange1 fs-18 p-2 text-white">Xổ số Miền Bắc ngày 20/07/2022 </h3>
+                    <h3 class="bg-orange1 fs-18 p-2 text-white">Xổ số Miền Bắc ngày 20/07/2022</h3>
                     <table class="table">
                         <tbody>
                             <tr>
-                                <td></td>
-                                <td class="text-red4 fw-bold">
+                                <td colspan="2" class="text-red4 fw-bold">
                                     <div class="d-flex justify-content-around">
                                         <span>11AK</span>
                                         <span>2AK</span>
@@ -756,52 +758,52 @@
                     </div>
                     <div class="bg-white rounded-bottom">
                         <div class="row py-3 px-2">
-                            <div class="col-5 d-flex align-items-center">
+                            <div class="col-4 col-lg-5 col-xl-5 d-flex align-items-center">
                                 <a href="">
                                     <img src="images/dudoanxoso.png" width="101" height="61">
                                 </a>
                             </div>
-                            <div class="col-7 fs-15 sidebar-news-title">
+                            <div class="col-8 col-lg-7 col-xl-7 fs-15 sidebar-news-title">
                                 <a href="" class="fw-bold">Ngủ mơ sinh nhật là điềm báo gì? Đánh con số nào?</a>
                             </div>
                         </div>
                         <div class="row py-3 px-2">
-                            <div class="col-5 d-flex align-items-center">
+                            <div class="col-4 col-lg-5 col-xl-5 d-flex align-items-center">
                                 <a href="">
                                     <img src="images/dudoanxoso.png" width="101" height="61">
                                 </a>
                             </div>
-                            <div class="col-7 fs-15 sidebar-news-title">
+                            <div class="col-8 col-lg-7 col-xl-7 fs-15 sidebar-news-title">
                                 <a href="" class="fw-bold">Ngủ mơ sinh nhật là điềm báo gì? Đánh con số nào?</a>
                             </div>
                         </div>
                         <div class="row py-3 px-2">
-                            <div class="col-5 d-flex align-items-center">
+                            <div class="col-4 col-lg-5 col-xl-5 d-flex align-items-center">
                                 <a href="">
                                     <img src="images/dudoanxoso.png" width="101" height="61">
                                 </a>
                             </div>
-                            <div class="col-7 fs-15 sidebar-news-title">
+                            <div class="col-8 col-lg-7 col-xl-7 fs-15 sidebar-news-title">
                                 <a href="" class="fw-bold">Ngủ mơ sinh nhật là điềm báo gì? Đánh con số nào?</a>
                             </div>
                         </div>
                         <div class="row py-3 px-2">
-                            <div class="col-5 d-flex align-items-center">
+                            <div class="col-4 col-lg-5 col-xl-5 d-flex align-items-center">
                                 <a href="">
                                     <img src="images/dudoanxoso.png" width="101" height="61">
                                 </a>
                             </div>
-                            <div class="col-7 fs-15 sidebar-news-title">
+                            <div class="col-8 col-lg-7 col-xl-7 fs-15 sidebar-news-title">
                                 <a href="" class="fw-bold">Ngủ mơ sinh nhật là điềm báo gì? Đánh con số nào?</a>
                             </div>
                         </div>
                         <div class="row py-3 px-2">
-                            <div class="col-5 d-flex align-items-center">
+                            <div class="col-4 col-lg-5 col-xl-5 d-flex align-items-center">
                                 <a href="">
                                     <img src="images/dudoanxoso.png" width="101" height="61">
                                 </a>
                             </div>
-                            <div class="col-7 fs-15 sidebar-news-title">
+                            <div class="col-8 col-lg-7 col-xl-7 fs-15 sidebar-news-title">
                                 <a href="" class="fw-bold">Ngủ mơ sinh nhật là điềm báo gì? Đánh con số nào?</a>
                             </div>
                         </div>
@@ -815,52 +817,52 @@
                     </div>
                     <div class="bg-white rounded-bottom">
                         <div class="row py-3 px-2">
-                            <div class="col-5 d-flex align-items-center">
+                            <div class="col-4 col-lg-5 col-xl-5 d-flex align-items-center">
                                 <a href="">
                                     <img src="images/dudoanxoso.png" width="101" height="61">
                                 </a>
                             </div>
-                            <div class="col-7 fs-15 sidebar-news-title">
+                            <div class="col-8 col-lg-7 col-xl-7 fs-15 sidebar-news-title">
                                 <a href="" class="fw-bold">Ngủ mơ sinh nhật là điềm báo gì? Đánh con số nào?</a>
                             </div>
                         </div>
                         <div class="row py-3 px-2">
-                            <div class="col-5 d-flex align-items-center">
+                            <div class="col-4 col-lg-5 col-xl-5 d-flex align-items-center">
                                 <a href="">
                                     <img src="images/dudoanxoso.png" width="101" height="61">
                                 </a>
                             </div>
-                            <div class="col-7 fs-15 sidebar-news-title">
+                            <div class="col-8 col-lg-7 col-xl-7 fs-15 sidebar-news-title">
                                 <a href="" class="fw-bold">Ngủ mơ sinh nhật là điềm báo gì? Đánh con số nào?</a>
                             </div>
                         </div>
                         <div class="row py-3 px-2">
-                            <div class="col-5 d-flex align-items-center">
+                            <div class="col-4 col-lg-5 col-xl-5 d-flex align-items-center">
                                 <a href="">
                                     <img src="images/dudoanxoso.png" width="101" height="61">
                                 </a>
                             </div>
-                            <div class="col-7 fs-15 sidebar-news-title">
+                            <div class="col-8 col-lg-7 col-xl-7 fs-15 sidebar-news-title">
                                 <a href="" class="fw-bold">Ngủ mơ sinh nhật là điềm báo gì? Đánh con số nào?</a>
                             </div>
                         </div>
                         <div class="row py-3 px-2">
-                            <div class="col-5 d-flex align-items-center">
+                            <div class="col-4 col-lg-5 col-xl-5 d-flex align-items-center">
                                 <a href="">
                                     <img src="images/dudoanxoso.png" width="101" height="61">
                                 </a>
                             </div>
-                            <div class="col-7 fs-15 sidebar-news-title">
+                            <div class="col-8 col-lg-7 col-xl-7 fs-15 sidebar-news-title">
                                 <a href="" class="fw-bold">Ngủ mơ sinh nhật là điềm báo gì? Đánh con số nào?</a>
                             </div>
                         </div>
                         <div class="row py-3 px-2">
-                            <div class="col-5 d-flex align-items-center">
+                            <div class="col-4 col-lg-5 col-xl-5 d-flex align-items-center">
                                 <a href="">
                                     <img src="images/dudoanxoso.png" width="101" height="61">
                                 </a>
                             </div>
-                            <div class="col-7 fs-15 sidebar-news-title">
+                            <div class="col-8 col-lg-7 col-xl-7 fs-15 sidebar-news-title">
                                 <a href="" class="fw-bold">Ngủ mơ sinh nhật là điềm báo gì? Đánh con số nào?</a>
                             </div>
                         </div>

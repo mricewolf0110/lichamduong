@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="151b1fcb-d7c1-4803-bd04-8e49cc9e4dcf" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/scss/non-amp/_header.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fonts/icomoon.svg" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/icomoon.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/home.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/common/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/common/_header.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/scss/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scss/index.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/scss/index.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/non-amp/_index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/non-amp/_index.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +74,9 @@
       <workItem from="1659165921349" duration="6000" />
       <workItem from="1659166055529" duration="40000" />
       <workItem from="1659166131145" duration="85000" />
-      <workItem from="1659166230013" duration="2474000" />
+      <workItem from="1659166230013" duration="3287000" />
+      <workItem from="1659320786410" duration="6025000" />
+      <workItem from="1659336305980" duration="18000" />
     </task>
     <servers />
   </component>
